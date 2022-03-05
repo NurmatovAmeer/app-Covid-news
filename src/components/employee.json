@@ -1,0 +1,65 @@
+[
+  {
+    "firstName": "Shakhbozbek",
+    "lastName": "Usmonov",
+    "age": 24,
+    "salary": 10000,
+    "position": "Software engineer"
+  },
+  {
+    "firstName": "Mirziyod",
+    "lastName": "Mirobidov",
+    "age": 16,
+    "salary": 10000,
+    "position": "Front-end developer"
+  },
+  {
+    "firstName": "Saidamirxon",
+    "lastName": "Nurmatov",
+    "age": 14,
+    "salary": 100000000,
+    "position": "Front-end developer"
+  },
+  {
+    "firstName": "Wekha",
+    "lastName": "Salimjonov",
+    "age": 15,
+    "salary": 500,
+    "position": "Project Manager"
+  },
+  {
+    "firstName": "Shokirjon",
+    "lastName": "Pardayev",
+    "age": 19,
+    "salary": 100000,
+    "position": "CEO"
+  },
+  {
+    "firstName": "Temurbek",
+    "lastName": "Amirqulov",
+    "age": 18,
+    "salary": 100000,
+    "position": "Manager"
+  },
+  {
+    "firstName": "Shohrux",
+    "lastName": "Rahmatullayev",
+    "age": 13,
+    "salary": 100000,
+    "position": "Gamer"
+  },
+  {
+    "firstName": "Otabek",
+    "lastName": "Abdusattorov",
+    "age": 14,
+    "salary": 100000,
+    "position": "Front-end Dev"
+  },
+  {
+    "firstName": "Jalol",
+    "lastName": "Husanov",
+    "age": 14,
+    "salary": 100000,
+    "position": "Back end dev"
+  }
+]
